@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/book-forum-reactjs/static/css/main.c9e310af.css",
+    "main.js": "/book-forum-reactjs/static/js/main.11150275.js",
+    "index.html": "/book-forum-reactjs/index.html",
+    "main.c9e310af.css.map": "/book-forum-reactjs/static/css/main.c9e310af.css.map",
+    "main.11150275.js.map": "/book-forum-reactjs/static/js/main.11150275.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9e310af.css",
+    "static/js/main.11150275.js"
+  ]
+}
