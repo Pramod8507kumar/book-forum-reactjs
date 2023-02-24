@@ -11,3 +11,18 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.footer{
+  text-align: center;
+  padding: 25px;
+}
+a{
+  text-decoration: none;
+  color: rgb(26, 85, 85);
+}
+a:hover{
+  background-color: aquamarine;
+  padding: 5px;
+  border-radius: 5px;
+  font-weight: bold;
+}

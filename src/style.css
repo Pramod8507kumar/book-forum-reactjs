@@ -1,0 +1,48 @@
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 20px;
+  }
+  
+  .title {
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .subtitle {
+    font-size: 1.5rem;
+    margin-top: 30px;
+  }
+  
+  .form-label {
+    display: block;
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+  }
+  
+  .form-input {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  .form-btn {
+    display: block;
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 1.2rem;
+    background-color: #1E90FF;
+    color: white;
+    border: none;
+  }
+
+  img{
+    width: 28px;
+  }
+
+  span{
+    cursor: pointer;
+  }
